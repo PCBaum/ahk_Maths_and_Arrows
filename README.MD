@@ -1,13 +1,13 @@
 ## Autohotkey for Maths_and_Arrows
 
-This AHK script lets you easily access commonly used Symbols for the different Number Types (Real, Complex, Rational, and Integer)
+This AHK script lets you use Arrows and some Maths Notations. If you also need the Number Types, the greek Alphabet, or Sub/Superscript, these are in seperate Scripts
 
-Either use \\R with the usual Letter, or use \real with the firest 3-4 letters of the name (normally case sensitive, but in the script there are options for both uncapitalized "real", and capitalized "Real")
+To use the script look at the Key Mapping. This Script contains Symbols such as 
 
-```
-\\R → ℝ , \real → ℝ, or \Real → ℝ
+∀, ∅, ∈, √, ∜, ∝, →, ⇒, ≠, ±, ∓, ∫, ∮, ∰, ∴, ∵, ⬜
 
-```
+for the valid hotstrings look below in the code.
+
 ## AHK Installation
 
   1. Download [Autohotkey](https://www.autohotkey.com/download/) and install it. 
